@@ -1,4 +1,4 @@
-Hi! i'm trina, i'm currently learning python as my first program language!
+Hi! i'm trina, i'm currently learning "C" as my first program language!
 Interest at knowing more people on this area and envolve my experience.
 
 <!---
